@@ -1,5 +1,4 @@
-# Presentation: OAuth2-Cyclec
-# Plan:
+# Presentation: OAuth2
     Introduction
     Integration des medias sociaux
     Avantages et Desavantages
